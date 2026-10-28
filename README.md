@@ -4,7 +4,7 @@
 Интерактивный дашборд для отслеживания продаж и прибыли e-commerce магазина.
 
 ## 🔗 Ссылки на проект
-* **Интерактивный дашборд:** https://public.tableau.com/views/Superstoresalesperformancedashboard_17931823721880/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link<img width="484" height="77" alt="image" src="https://github.com/user-attachments/assets/9ad11ca1-b875-4058-8458-76d452973659" />
+* **Интерактивный дашборд:** https://public.tableau.com/views/Superstoresalesperformancedashboard_17931823721880/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 * **SQL-код для базы данных:** [init_db.sql](init_db.sql)
 
